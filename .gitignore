@@ -1,6 +1,16 @@
 app/dist
 app/artifacts
 cache
-node_modules
 artifacts
 *.bck
+
+# dependencies
+/node_modules
+
+# misc
+.DS_Store
+*.pem
+/.vscode/
+
+# debug
+npm-debug.log*
