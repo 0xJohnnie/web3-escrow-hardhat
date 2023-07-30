@@ -1,4 +1,4 @@
-# Decentralized Escrow Application
+# Decentralized Web3 Escrow Application
 
 This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).
 
